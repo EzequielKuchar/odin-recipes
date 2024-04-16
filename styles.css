@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+    font-size: 18px;
+}
+
+.small-para {
+    font-size: 16px;
+}
+
+h1 {
+    color:red
+}
+
+h2 {
+    color:blue
+}
+
+li {
+    color: green;
+}
